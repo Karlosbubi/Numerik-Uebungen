@@ -11,6 +11,7 @@ Numerik durch implementation verstehen
   - [ ] Standard
   - [ ] LR
     - [ ] LR - Determinante
+    - [ ] Cholesky
 - [ ] QR Zerlegung
   - [ ] Givens
   - [ ] Householder
