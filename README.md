@@ -14,4 +14,7 @@ Numerik durch implementation verstehen
 - [ ] QR Zerlegung
   - [ ] Givens
   - [ ] Householder
-- [ ] Singulärzerlegung 
+- [ ] Singulärzerlegung
+- [ ] Optimerungen (wie Kompakte Speicherung)
+- [ ] Programmiersprachen vergleich
+- [ ] Dokumentation
